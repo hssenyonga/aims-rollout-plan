@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AIMS Rollout Plan</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f6f8;
+    color: #333;
+}
+
+.hero {
+    background: #1a73e8;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    margin: 20px 0;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+
+h1, h2 {
+    margin-top: 0;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: bold;
+    color: #1a73e8;
+}
+
+.cta {
+    background: #1a73e8;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: gray;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="hero">
+    <h1>AIMS School Management System</h1>
+    <p>Full Rollout Plan & Execution Strategy</p>
+</div>
+
+<div class="container">
+
+<div class="card">
+<h2>🎯 Vision</h2>
+<p>To digitize school operations across Uganda by providing a reliable, offline-capable school management system that improves efficiency, accountability, and communication.</p>
+</div>
+
+<div class="card">
+<h2>🎤 Sales Pitch</h2>
+<p>We help schools reduce fee losses, automate report cards, and manage operations efficiently — even without internet.</p>
+<p><b>Key Advantage:</b> Built specifically for Ugandan schools.</p>
+</div>
+
+<div class="card">
+<h2>🚀 Rollout Strategy</h2>
+<ul>
+<li>Start with 5–10 pilot schools</li>
+<li>Offer free trial (1 term)</li>
+<li>Provide full setup & training</li>
+<li>Collect testimonials</li>
+<li>Scale using referrals</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>💰 Pricing Packages</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>Starter</h3>
+<p>Up to 300 students</p>
+<p class="price">300K + 50K/month</p>
+</div>
+
+<div class="card">
+<h3>Standard</h3>
+<p>Up to 800 students</p>
+<p class="price">600K + 120K/month</p>
+</div>
+
+<div class="card">
+<h3>Premium</h3>
+<p>Unlimited students</p>
+<p class="price">1M + 250K/month</p>
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+<h2>📅 Execution Roadmap</h2>
+<ul>
+<li><b>Month 1:</b> School visits & demos</li>
+<li><b>Month 2:</b> Onboard first clients</li>
+<li><b>Month 3:</b> Gather testimonials</li>
+<li><b>Month 4+:</b> Scale to districts</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>👥 Team Structure</h2>
+<ul>
+<li>Founder – Sales & partnerships</li>
+<li>Sales Rep – School outreach</li>
+<li>Support – Setup & training</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>🔥 Success Formula</h2>
+<p><b>Demo → Close → Support → Retain → Referral → Scale</b></p>
+</div>
+
+<div class="card">
+<h2>📢 Call to Action</h2>
+<p>Ready to transform your school operations?</p>
+<div class="cta">Request Demo via WhatsApp</div>
+</div>
+
+</div>
+
+<div class="footer">
+© 2026 AIMS Uganda — Built for African Schools
+</div>
+
+</body>
+</html>
